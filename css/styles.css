@@ -1,5 +1,5 @@
 body {
-  background-color: yellow;
+  background-color: #e8cfca;
 }
 
 h1 {
@@ -15,4 +15,8 @@ h1 {
   color: purple;
   font-weight: bolder;
   font-size: 18px;
+}
+
+.newButton {
+  font-weight: bolder;
 }
