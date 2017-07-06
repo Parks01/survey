@@ -1,0 +1,18 @@
+body {
+  background-color: yellow;
+}
+
+h1 {
+  font-family: fantasy;
+  font-size: 48px;
+  text-align: center;
+  text-decoration: underline;
+  font-weight: bolder;
+}
+
+.music {
+  font-family: cursive;
+  color: purple;
+  font-weight: bolder;
+  font-size: 18px;
+}
